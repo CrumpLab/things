@@ -1,0 +1,31 @@
+{
+  "about": "One entry per series folder under images/. Written during the describing pass; edit freely.",
+  "series": [
+    {"slug": "superland", "name": "Superland", "years": "2008 to 2009", "medium": "oil on canvas", "count": 19,
+     "summary": "Thickly painted cubist cartoon worlds with heavy black outlines: crowds of globe headed and hash faced figures, striped spheres, splashes, rockets and giant faces in the sky. The founding vocabulary for everything after."},
+    {"slug": "magicbear", "name": "Magicbear", "years": "2009 to 2010", "medium": "marker and acrylic on wood", "count": 5,
+     "summary": "Graffiti style panels on raw plywood about a bear character, with bubble lettering that fills every gap."},
+    {"slug": "commissions", "name": "Commissions", "years": "2009 to 2022", "medium": "mixed", "count": 6,
+     "summary": "Pieces made for people: wide wordscape panels, Superland style oils, a spray painted name canvas, and the 2021 digital Cliffs of Volcano Ball Lake that seeded the Colorlands."},
+    {"slug": "towns", "name": "Towns", "years": "2011 and 2017", "medium": "oil on wood", "count": 13,
+     "summary": "Small square paintings of pastel towns and their residents: hooded pod figures, dinosaurs, dragons, vehicle creatures. Includes three group portraits and the Floating Earth Town."},
+    {"slug": "cactuses", "name": "Cactuses", "years": "2014 to 2019", "medium": "gouache, marker and oil", "count": 11,
+     "summary": "Sketchbook studies of cactuses as creatures, photographed on a table, plus two oil paintings that grow out of them."},
+    {"slug": "airbrush", "name": "Airbrush", "years": "2016", "medium": "airbrush on paper", "count": 20,
+     "summary": "Stencil airbrush experiments: bark patterns, a bike stencil in five colourways, Eastern Parkway in four, a totem in four, and two ink and airbrush landscapes that prefigure the Colorlands."},
+    {"slug": "characters", "name": "Characters", "years": "2016 to 2019", "medium": "airbrush on paper", "count": 12,
+     "summary": "Twelve inch airbrush sheets of the hooded pod people: character sheets, city living, country living, and colour versions."},
+    {"slug": "screenprints", "name": "Screenprints", "years": "2017", "medium": "ink on paper", "count": 3,
+     "summary": "A parody psychology apparatus ad, a line drawing for a print, and a reproduction of a 1930s airport poster."},
+    {"slug": "crowds", "name": "Crowds", "years": "2019", "medium": "marker on wood", "count": 13,
+     "summary": "Panels packed edge to edge with horned, toothed, one eyed monsters, and four mirrored reassembled crowds on joined panels."},
+    {"slug": "desertland", "name": "Desertland", "years": "2019", "medium": "oil on wood", "count": 7,
+     "summary": "Flat pastel desert landscapes of pods, blob figures and flying pods, Superland after a decade of rest."},
+    {"slug": "generative", "name": "Generative", "years": "2022", "medium": "digital", "count": 4,
+     "summary": "Process pieces made from the scribble underlayers and hut textures of the Colorlands drawings, one laid over a Brooklyn street."},
+    {"slug": "colorlands", "name": "Colorlands", "years": "2021 to 2023", "medium": "digital", "count": 8,
+     "summary": "Candy coloured digital valleys crammed with creatures, drawn in Fresco with hand lettered titles. Includes the 2023 revisit of Volcano Ball Lake."},
+    {"slug": "scribble", "name": "Scribble Pictures", "years": "2023 to 2024", "medium": "digital over photograph", "count": 48,
+     "summary": "Street photographs of New York, Toronto and Vancouver with cartoon drawing over them: faceless people, scribbled signs, soft cars, and from late 2023 a growing population of creatures and invented clouds."}
+  ]
+}

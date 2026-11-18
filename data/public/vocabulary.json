@@ -1,0 +1,4222 @@
+{
+ "version": 1,
+ "facets": {
+  "subjects": [
+   {
+    "tag": "abstract forms",
+    "gloss": ""
+   },
+   {
+    "tag": "aeroplane",
+    "gloss": ""
+   },
+   {
+    "tag": "airship",
+    "gloss": ""
+   },
+   {
+    "tag": "animals",
+    "gloss": ""
+   },
+   {
+    "tag": "apartment towers",
+    "gloss": ""
+   },
+   {
+    "tag": "apparatus",
+    "gloss": ""
+   },
+   {
+    "tag": "arch",
+    "gloss": ""
+   },
+   {
+    "tag": "architecture",
+    "gloss": ""
+   },
+   {
+    "tag": "arena",
+    "gloss": ""
+   },
+   {
+    "tag": "bank",
+    "gloss": ""
+   },
+   {
+    "tag": "bank building",
+    "gloss": ""
+   },
+   {
+    "tag": "bark",
+    "gloss": ""
+   },
+   {
+    "tag": "beach",
+    "gloss": ""
+   },
+   {
+    "tag": "bear",
+    "gloss": ""
+   },
+   {
+    "tag": "bicycles",
+    "gloss": ""
+   },
+   {
+    "tag": "billboard",
+    "gloss": ""
+   },
+   {
+    "tag": "bins",
+    "gloss": ""
+   },
+   {
+    "tag": "blocks",
+    "gloss": ""
+   },
+   {
+    "tag": "boat",
+    "gloss": ""
+   },
+   {
+    "tag": "brain",
+    "gloss": ""
+   },
+   {
+    "tag": "bridge",
+    "gloss": ""
+   },
+   {
+    "tag": "buildings",
+    "gloss": ""
+   },
+   {
+    "tag": "bus",
+    "gloss": ""
+   },
+   {
+    "tag": "cables",
+    "gloss": ""
+   },
+   {
+    "tag": "cactus",
+    "gloss": ""
+   },
+   {
+    "tag": "cafe",
+    "gloss": ""
+   },
+   {
+    "tag": "carrots",
+    "gloss": ""
+   },
+   {
+    "tag": "cars",
+    "gloss": ""
+   },
+   {
+    "tag": "castle",
+    "gloss": ""
+   },
+   {
+    "tag": "chairs",
+    "gloss": ""
+   },
+   {
+    "tag": "character sheet",
+    "gloss": ""
+   },
+   {
+    "tag": "city",
+    "gloss": ""
+   },
+   {
+    "tag": "clock",
+    "gloss": ""
+   },
+   {
+    "tag": "clock tower",
+    "gloss": ""
+   },
+   {
+    "tag": "clothing racks",
+    "gloss": ""
+   },
+   {
+    "tag": "clouds",
+    "gloss": ""
+   },
+   {
+    "tag": "cobblestones",
+    "gloss": ""
+   },
+   {
+    "tag": "construction",
+    "gloss": ""
+   },
+   {
+    "tag": "construction fence",
+    "gloss": ""
+   },
+   {
+    "tag": "creature parts",
+    "gloss": ""
+   },
+   {
+    "tag": "creatures",
+    "gloss": ""
+   },
+   {
+    "tag": "crosswalk",
+    "gloss": ""
+   },
+   {
+    "tag": "crowd",
+    "gloss": ""
+   },
+   {
+    "tag": "crystals",
+    "gloss": ""
+   },
+   {
+    "tag": "cubes",
+    "gloss": ""
+   },
+   {
+    "tag": "cyclist",
+    "gloss": ""
+   },
+   {
+    "tag": "deli",
+    "gloss": ""
+   },
+   {
+    "tag": "desert",
+    "gloss": ""
+   },
+   {
+    "tag": "diagram",
+    "gloss": ""
+   },
+   {
+    "tag": "dinosaurs",
+    "gloss": ""
+   },
+   {
+    "tag": "dog",
+    "gloss": ""
+   },
+   {
+    "tag": "dragons",
+    "gloss": ""
+   },
+   {
+    "tag": "drops",
+    "gloss": ""
+   },
+   {
+    "tag": "dusk",
+    "gloss": ""
+   },
+   {
+    "tag": "elevated train",
+    "gloss": ""
+   },
+   {
+    "tag": "faces",
+    "gloss": ""
+   },
+   {
+    "tag": "fields",
+    "gloss": ""
+   },
+   {
+    "tag": "figures",
+    "gloss": ""
+   },
+   {
+    "tag": "fire escapes",
+    "gloss": ""
+   },
+   {
+    "tag": "flames",
+    "gloss": ""
+   },
+   {
+    "tag": "flowers",
+    "gloss": ""
+   },
+   {
+    "tag": "flying pods",
+    "gloss": ""
+   },
+   {
+    "tag": "flying saucers",
+    "gloss": ""
+   },
+   {
+    "tag": "foliage",
+    "gloss": ""
+   },
+   {
+    "tag": "food carts",
+    "gloss": ""
+   },
+   {
+    "tag": "fruit stand",
+    "gloss": ""
+   },
+   {
+    "tag": "garden",
+    "gloss": ""
+   },
+   {
+    "tag": "gate",
+    "gloss": ""
+   },
+   {
+    "tag": "graffiti",
+    "gloss": ""
+   },
+   {
+    "tag": "group portrait",
+    "gloss": ""
+   },
+   {
+    "tag": "hand",
+    "gloss": ""
+   },
+   {
+    "tag": "handbags",
+    "gloss": ""
+   },
+   {
+    "tag": "hats",
+    "gloss": ""
+   },
+   {
+    "tag": "headdresses",
+    "gloss": ""
+   },
+   {
+    "tag": "helmet",
+    "gloss": ""
+   },
+   {
+    "tag": "highway",
+    "gloss": ""
+   },
+   {
+    "tag": "houses",
+    "gloss": ""
+   },
+   {
+    "tag": "huts",
+    "gloss": ""
+   },
+   {
+    "tag": "hydrant",
+    "gloss": ""
+   },
+   {
+    "tag": "ice cream truck",
+    "gloss": ""
+   },
+   {
+    "tag": "industrial building",
+    "gloss": ""
+   },
+   {
+    "tag": "interior",
+    "gloss": ""
+   },
+   {
+    "tag": "island",
+    "gloss": ""
+   },
+   {
+    "tag": "jogger",
+    "gloss": ""
+   },
+   {
+    "tag": "keyboard",
+    "gloss": ""
+   },
+   {
+    "tag": "kiosk",
+    "gloss": ""
+   },
+   {
+    "tag": "lake",
+    "gloss": ""
+   },
+   {
+    "tag": "lamp post",
+    "gloss": ""
+   },
+   {
+    "tag": "landmark",
+    "gloss": ""
+   },
+   {
+    "tag": "landscape",
+    "gloss": ""
+   },
+   {
+    "tag": "lettering",
+    "gloss": ""
+   },
+   {
+    "tag": "machinery",
+    "gloss": ""
+   },
+   {
+    "tag": "market",
+    "gloss": ""
+   },
+   {
+    "tag": "masks",
+    "gloss": ""
+   },
+   {
+    "tag": "monsters",
+    "gloss": ""
+   },
+   {
+    "tag": "motorcycle",
+    "gloss": ""
+   },
+   {
+    "tag": "mountains",
+    "gloss": ""
+   },
+   {
+    "tag": "mural",
+    "gloss": ""
+   },
+   {
+    "tag": "names",
+    "gloss": ""
+   },
+   {
+    "tag": "neon",
+    "gloss": ""
+   },
+   {
+    "tag": "night",
+    "gloss": ""
+   },
+   {
+    "tag": "night sky",
+    "gloss": ""
+   },
+   {
+    "tag": "overpass",
+    "gloss": ""
+   },
+   {
+    "tag": "paddles",
+    "gloss": ""
+   },
+   {
+    "tag": "park",
+    "gloss": ""
+   },
+   {
+    "tag": "path",
+    "gloss": ""
+   },
+   {
+    "tag": "pattern",
+    "gloss": ""
+   },
+   {
+    "tag": "pavement",
+    "gloss": ""
+   },
+   {
+    "tag": "pedicab",
+    "gloss": ""
+   },
+   {
+    "tag": "people",
+    "gloss": ""
+   },
+   {
+    "tag": "pharmacy",
+    "gloss": ""
+   },
+   {
+    "tag": "pier",
+    "gloss": ""
+   },
+   {
+    "tag": "planets",
+    "gloss": ""
+   },
+   {
+    "tag": "planters",
+    "gloss": ""
+   },
+   {
+    "tag": "plants",
+    "gloss": ""
+   },
+   {
+    "tag": "plaza",
+    "gloss": ""
+   },
+   {
+    "tag": "pods",
+    "gloss": ""
+   },
+   {
+    "tag": "pot",
+    "gloss": ""
+   },
+   {
+    "tag": "pyramid",
+    "gloss": ""
+   },
+   {
+    "tag": "queue",
+    "gloss": ""
+   },
+   {
+    "tag": "reflections",
+    "gloss": ""
+   },
+   {
+    "tag": "restaurant",
+    "gloss": ""
+   },
+   {
+    "tag": "river",
+    "gloss": ""
+   },
+   {
+    "tag": "road",
+    "gloss": ""
+   },
+   {
+    "tag": "robots",
+    "gloss": ""
+   },
+   {
+    "tag": "rocket",
+    "gloss": ""
+   },
+   {
+    "tag": "rocks",
+    "gloss": ""
+   },
+   {
+    "tag": "rooftops",
+    "gloss": ""
+   },
+   {
+    "tag": "screen",
+    "gloss": ""
+   },
+   {
+    "tag": "screens",
+    "gloss": ""
+   },
+   {
+    "tag": "scribbles",
+    "gloss": ""
+   },
+   {
+    "tag": "sea",
+    "gloss": ""
+   },
+   {
+    "tag": "seaplane",
+    "gloss": ""
+   },
+   {
+    "tag": "shark",
+    "gloss": ""
+   },
+   {
+    "tag": "ship",
+    "gloss": ""
+   },
+   {
+    "tag": "shop",
+    "gloss": ""
+   },
+   {
+    "tag": "shrine",
+    "gloss": ""
+   },
+   {
+    "tag": "sidewalk",
+    "gloss": ""
+   },
+   {
+    "tag": "signal box",
+    "gloss": ""
+   },
+   {
+    "tag": "signs",
+    "gloss": ""
+   },
+   {
+    "tag": "skateboard",
+    "gloss": ""
+   },
+   {
+    "tag": "sky",
+    "gloss": ""
+   },
+   {
+    "tag": "skybridge",
+    "gloss": ""
+   },
+   {
+    "tag": "skyscrapers",
+    "gloss": ""
+   },
+   {
+    "tag": "smoke",
+    "gloss": ""
+   },
+   {
+    "tag": "spaceship",
+    "gloss": ""
+   },
+   {
+    "tag": "spheres",
+    "gloss": ""
+   },
+   {
+    "tag": "splashes",
+    "gloss": ""
+   },
+   {
+    "tag": "stadium",
+    "gloss": ""
+   },
+   {
+    "tag": "stairs",
+    "gloss": ""
+   },
+   {
+    "tag": "statue",
+    "gloss": ""
+   },
+   {
+    "tag": "steel",
+    "gloss": ""
+   },
+   {
+    "tag": "street",
+    "gloss": ""
+   },
+   {
+    "tag": "street artist",
+    "gloss": ""
+   },
+   {
+    "tag": "studies",
+    "gloss": ""
+   },
+   {
+    "tag": "subway",
+    "gloss": ""
+   },
+   {
+    "tag": "subway entrance",
+    "gloss": ""
+   },
+   {
+    "tag": "suitcases",
+    "gloss": ""
+   },
+   {
+    "tag": "sun",
+    "gloss": ""
+   },
+   {
+    "tag": "sun face",
+    "gloss": ""
+   },
+   {
+    "tag": "symbols",
+    "gloss": ""
+   },
+   {
+    "tag": "synthesizer",
+    "gloss": ""
+   },
+   {
+    "tag": "taxis",
+    "gloss": ""
+   },
+   {
+    "tag": "teeth",
+    "gloss": ""
+   },
+   {
+    "tag": "tents",
+    "gloss": ""
+   },
+   {
+    "tag": "terraces",
+    "gloss": ""
+   },
+   {
+    "tag": "theatre",
+    "gloss": ""
+   },
+   {
+    "tag": "totem",
+    "gloss": ""
+   },
+   {
+    "tag": "totem poles",
+    "gloss": ""
+   },
+   {
+    "tag": "towers",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic lights",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic pole",
+    "gloss": ""
+   },
+   {
+    "tag": "train",
+    "gloss": ""
+   },
+   {
+    "tag": "travellers",
+    "gloss": ""
+   },
+   {
+    "tag": "trees",
+    "gloss": ""
+   },
+   {
+    "tag": "trucks",
+    "gloss": ""
+   },
+   {
+    "tag": "tunnel",
+    "gloss": ""
+   },
+   {
+    "tag": "umbrella",
+    "gloss": ""
+   },
+   {
+    "tag": "valley",
+    "gloss": ""
+   },
+   {
+    "tag": "van",
+    "gloss": ""
+   },
+   {
+    "tag": "vehicle",
+    "gloss": ""
+   },
+   {
+    "tag": "vehicles",
+    "gloss": ""
+   },
+   {
+    "tag": "vendor",
+    "gloss": ""
+   },
+   {
+    "tag": "village",
+    "gloss": ""
+   },
+   {
+    "tag": "volcano",
+    "gloss": ""
+   },
+   {
+    "tag": "warehouses",
+    "gloss": ""
+   },
+   {
+    "tag": "waterfall",
+    "gloss": ""
+   },
+   {
+    "tag": "waves",
+    "gloss": ""
+   },
+   {
+    "tag": "whale",
+    "gloss": ""
+   },
+   {
+    "tag": "wood grain",
+    "gloss": ""
+   },
+   {
+    "tag": "worker",
+    "gloss": ""
+   }
+  ],
+  "characters": [
+   {
+    "tag": "antenna blob",
+    "gloss": "Blob with antennae ending in balls."
+   },
+   {
+    "tag": "bear",
+    "gloss": ""
+   },
+   {
+    "tag": "bin creature",
+    "gloss": "A trash bin or signal box given a face, horns or legs."
+   },
+   {
+    "tag": "bird creature",
+    "gloss": "Beaked creature, sometimes winged."
+   },
+   {
+    "tag": "blob animal",
+    "gloss": ""
+   },
+   {
+    "tag": "blob figure",
+    "gloss": "Generic soft rounded figure with dot limbs and no strong features."
+   },
+   {
+    "tag": "cactus figure",
+    "gloss": "A cactus standing like a person with raised arms."
+   },
+   {
+    "tag": "cat",
+    "gloss": ""
+   },
+   {
+    "tag": "curious bear",
+    "gloss": "The blue flying bear named in the Curious Bear lettering pieces."
+   },
+   {
+    "tag": "cyclist",
+    "gloss": "A person on a bicycle, usually faceless."
+   },
+   {
+    "tag": "dog",
+    "gloss": ""
+   },
+   {
+    "tag": "dragon",
+    "gloss": "Rounded winged creature with horns and a toothed tail."
+   },
+   {
+    "tag": "face in window",
+    "gloss": ""
+   },
+   {
+    "tag": "faceless figure",
+    "gloss": "A photographed person whose face or head is replaced by a flat cartoon shape. The signature move of the Scribble pictures."
+   },
+   {
+    "tag": "fish car creature",
+    "gloss": "A parked car evolved into a fish with fins and an eye, as in Scribble 29."
+   },
+   {
+    "tag": "flying saucer with eye",
+    "gloss": ""
+   },
+   {
+    "tag": "frilled creature",
+    "gloss": ""
+   },
+   {
+    "tag": "giant creature",
+    "gloss": "A creature at building scale, peeking over or sitting on rooftops."
+   },
+   {
+    "tag": "globe headed figure",
+    "gloss": "Small figure with a striped sphere for a head, standing in Superland crowds."
+   },
+   {
+    "tag": "handbag creature",
+    "gloss": ""
+   },
+   {
+    "tag": "hash face",
+    "gloss": "A face drawn as a few hash strokes on a round head. The Superland signature."
+   },
+   {
+    "tag": "helmeted figure",
+    "gloss": "Figure in a ringed space helmet, Superland."
+   },
+   {
+    "tag": "hidden face",
+    "gloss": "A face or eyes tucked into foliage, clouds, hills or texture."
+   },
+   {
+    "tag": "hooded pod figure",
+    "gloss": "Rounded pod body with a pointed or hooded head and a small visor face. Appears in the 2011 town paintings, the 2016 airbrush sheets and the 2024 Scribbles."
+   },
+   {
+    "tag": "horned creature",
+    "gloss": "Any rounded creature with one or two horns, usually white tipped."
+   },
+   {
+    "tag": "hydrant creature",
+    "gloss": ""
+   },
+   {
+    "tag": "long necked creature",
+    "gloss": "Dinosaur like animal with a long neck, from the 2011 towns to the 2024 dinosaur bus."
+   },
+   {
+    "tag": "luggage creature",
+    "gloss": ""
+   },
+   {
+    "tag": "magic bear",
+    "gloss": "The bear character of the 2009 Magicbear panels, red or blue with a square snout."
+   },
+   {
+    "tag": "one eyed creature",
+    "gloss": "Blob or stalk body with a single large eye. The basic Superland and crowd citizen."
+   },
+   {
+    "tag": "pod creature",
+    "gloss": "Domed creature with legs or bulbs, the Desertland resident."
+   },
+   {
+    "tag": "pole creature",
+    "gloss": ""
+   },
+   {
+    "tag": "rabbit eared figure",
+    "gloss": "Creature with tall rabbit ears."
+   },
+   {
+    "tag": "robot",
+    "gloss": ""
+   },
+   {
+    "tag": "rooftop creature",
+    "gloss": ""
+   },
+   {
+    "tag": "round headed figure",
+    "gloss": ""
+   },
+   {
+    "tag": "running figure",
+    "gloss": ""
+   },
+   {
+    "tag": "signal box creature",
+    "gloss": ""
+   },
+   {
+    "tag": "sleepy face",
+    "gloss": "Half closed or shut eyes, often with lashes."
+   },
+   {
+    "tag": "sun face",
+    "gloss": "A sun or sphere with a doodled face."
+   },
+   {
+    "tag": "toothy monster",
+    "gloss": "Wide open mouth full of white teeth; the crowd painting shouter."
+   },
+   {
+    "tag": "totem face",
+    "gloss": "Stacked faces forming a pole, in Superland and in Scribble 48."
+   },
+   {
+    "tag": "totem figure",
+    "gloss": "The frontal symmetrical idol of the airbrush Totem series."
+   },
+   {
+    "tag": "vehicle creature",
+    "gloss": "A car, bus or truck redrawn as a soft rounded cartoon, sometimes with eyes or fins."
+   },
+   {
+    "tag": "visor face",
+    "gloss": "A face reduced to a white rectangular visor or window."
+   }
+  ],
+  "elements": [
+   {
+    "tag": "air conditioner",
+    "gloss": ""
+   },
+   {
+    "tag": "airship",
+    "gloss": ""
+   },
+   {
+    "tag": "angular panels",
+    "gloss": ""
+   },
+   {
+    "tag": "antenna",
+    "gloss": ""
+   },
+   {
+    "tag": "apartment block",
+    "gloss": ""
+   },
+   {
+    "tag": "arch",
+    "gloss": ""
+   },
+   {
+    "tag": "arched door",
+    "gloss": ""
+   },
+   {
+    "tag": "arched windows",
+    "gloss": ""
+   },
+   {
+    "tag": "arrow",
+    "gloss": ""
+   },
+   {
+    "tag": "art deco lettering",
+    "gloss": ""
+   },
+   {
+    "tag": "autumn grass",
+    "gloss": ""
+   },
+   {
+    "tag": "autumn trees",
+    "gloss": ""
+   },
+   {
+    "tag": "awning",
+    "gloss": ""
+   },
+   {
+    "tag": "backpack",
+    "gloss": ""
+   },
+   {
+    "tag": "balcony tower",
+    "gloss": ""
+   },
+   {
+    "tag": "ball on summit",
+    "gloss": ""
+   },
+   {
+    "tag": "band",
+    "gloss": ""
+   },
+   {
+    "tag": "banded sky",
+    "gloss": ""
+   },
+   {
+    "tag": "banner",
+    "gloss": ""
+   },
+   {
+    "tag": "bare tree",
+    "gloss": ""
+   },
+   {
+    "tag": "bare wood",
+    "gloss": ""
+   },
+   {
+    "tag": "bat wings",
+    "gloss": ""
+   },
+   {
+    "tag": "beaded edge",
+    "gloss": ""
+   },
+   {
+    "tag": "beak",
+    "gloss": ""
+   },
+   {
+    "tag": "bench",
+    "gloss": ""
+   },
+   {
+    "tag": "bentwood chair",
+    "gloss": ""
+   },
+   {
+    "tag": "bicycle",
+    "gloss": ""
+   },
+   {
+    "tag": "bike share",
+    "gloss": ""
+   },
+   {
+    "tag": "billboard",
+    "gloss": ""
+   },
+   {
+    "tag": "bin",
+    "gloss": ""
+   },
+   {
+    "tag": "blank awning",
+    "gloss": ""
+   },
+   {
+    "tag": "blank face",
+    "gloss": ""
+   },
+   {
+    "tag": "blank poster",
+    "gloss": ""
+   },
+   {
+    "tag": "blank sign",
+    "gloss": ""
+   },
+   {
+    "tag": "blanket",
+    "gloss": ""
+   },
+   {
+    "tag": "bleed through",
+    "gloss": ""
+   },
+   {
+    "tag": "blended shading",
+    "gloss": ""
+   },
+   {
+    "tag": "bollard",
+    "gloss": ""
+   },
+   {
+    "tag": "bottle shape",
+    "gloss": ""
+   },
+   {
+    "tag": "boulder",
+    "gloss": ""
+   },
+   {
+    "tag": "box truck",
+    "gloss": ""
+   },
+   {
+    "tag": "brain tree logo",
+    "gloss": ""
+   },
+   {
+    "tag": "branching arms",
+    "gloss": ""
+   },
+   {
+    "tag": "bridge",
+    "gloss": ""
+   },
+   {
+    "tag": "bridge arch",
+    "gloss": ""
+   },
+   {
+    "tag": "bridge underside",
+    "gloss": ""
+   },
+   {
+    "tag": "brim",
+    "gloss": ""
+   },
+   {
+    "tag": "bubble letters",
+    "gloss": ""
+   },
+   {
+    "tag": "bubble window vehicle",
+    "gloss": ""
+   },
+   {
+    "tag": "bulb",
+    "gloss": ""
+   },
+   {
+    "tag": "bump",
+    "gloss": ""
+   },
+   {
+    "tag": "bus",
+    "gloss": ""
+   },
+   {
+    "tag": "cactus stub",
+    "gloss": ""
+   },
+   {
+    "tag": "cafe table",
+    "gloss": ""
+   },
+   {
+    "tag": "cake",
+    "gloss": ""
+   },
+   {
+    "tag": "camouflage pattern",
+    "gloss": ""
+   },
+   {
+    "tag": "camper van",
+    "gloss": ""
+   },
+   {
+    "tag": "cane",
+    "gloss": ""
+   },
+   {
+    "tag": "cap",
+    "gloss": ""
+   },
+   {
+    "tag": "caption",
+    "gloss": ""
+   },
+   {
+    "tag": "cardboard box face",
+    "gloss": ""
+   },
+   {
+    "tag": "carrot",
+    "gloss": ""
+   },
+   {
+    "tag": "carved lettering",
+    "gloss": ""
+   },
+   {
+    "tag": "cast iron facade",
+    "gloss": ""
+   },
+   {
+    "tag": "cave mouth",
+    "gloss": ""
+   },
+   {
+    "tag": "cell",
+    "gloss": ""
+   },
+   {
+    "tag": "checkered block",
+    "gloss": ""
+   },
+   {
+    "tag": "checkered pavement",
+    "gloss": ""
+   },
+   {
+    "tag": "chest panel",
+    "gloss": ""
+   },
+   {
+    "tag": "chimney",
+    "gloss": ""
+   },
+   {
+    "tag": "chimney cap",
+    "gloss": ""
+   },
+   {
+    "tag": "circular hole",
+    "gloss": ""
+   },
+   {
+    "tag": "citation",
+    "gloss": ""
+   },
+   {
+    "tag": "clock",
+    "gloss": ""
+   },
+   {
+    "tag": "closed eyes",
+    "gloss": ""
+   },
+   {
+    "tag": "clothing rack",
+    "gloss": ""
+   },
+   {
+    "tag": "cloud band",
+    "gloss": ""
+   },
+   {
+    "tag": "cloud lobe",
+    "gloss": ""
+   },
+   {
+    "tag": "coffee shop sign",
+    "gloss": ""
+   },
+   {
+    "tag": "colonnade",
+    "gloss": ""
+   },
+   {
+    "tag": "columns",
+    "gloss": ""
+   },
+   {
+    "tag": "cone tree",
+    "gloss": ""
+   },
+   {
+    "tag": "construction barrier",
+    "gloss": ""
+   },
+   {
+    "tag": "construction fence",
+    "gloss": ""
+   },
+   {
+    "tag": "construction tower",
+    "gloss": ""
+   },
+   {
+    "tag": "contour lines",
+    "gloss": ""
+   },
+   {
+    "tag": "crane",
+    "gloss": ""
+   },
+   {
+    "tag": "creature canopy",
+    "gloss": ""
+   },
+   {
+    "tag": "crosswalk",
+    "gloss": ""
+   },
+   {
+    "tag": "curled arm",
+    "gloss": ""
+   },
+   {
+    "tag": "dials",
+    "gloss": ""
+   },
+   {
+    "tag": "dinosaur bus",
+    "gloss": ""
+   },
+   {
+    "tag": "disc",
+    "gloss": ""
+   },
+   {
+    "tag": "dollar sign",
+    "gloss": ""
+   },
+   {
+    "tag": "dome",
+    "gloss": ""
+   },
+   {
+    "tag": "domed building",
+    "gloss": ""
+   },
+   {
+    "tag": "domed hut",
+    "gloss": ""
+   },
+   {
+    "tag": "doorway",
+    "gloss": ""
+   },
+   {
+    "tag": "dots",
+    "gloss": ""
+   },
+   {
+    "tag": "dotted ring",
+    "gloss": ""
+   },
+   {
+    "tag": "double stencil",
+    "gloss": ""
+   },
+   {
+    "tag": "drip",
+    "gloss": ""
+   },
+   {
+    "tag": "drop shadow",
+    "gloss": ""
+   },
+   {
+    "tag": "dump truck",
+    "gloss": ""
+   },
+   {
+    "tag": "ear ornament",
+    "gloss": ""
+   },
+   {
+    "tag": "elevated highway",
+    "gloss": ""
+   },
+   {
+    "tag": "elevated tracks",
+    "gloss": ""
+   },
+   {
+    "tag": "engine glow",
+    "gloss": ""
+   },
+   {
+    "tag": "explosion",
+    "gloss": ""
+   },
+   {
+    "tag": "eye wheels",
+    "gloss": ""
+   },
+   {
+    "tag": "eyes in things",
+    "gloss": ""
+   },
+   {
+    "tag": "facet shapes",
+    "gloss": ""
+   },
+   {
+    "tag": "faceted mountain",
+    "gloss": ""
+   },
+   {
+    "tag": "facets",
+    "gloss": ""
+   },
+   {
+    "tag": "fake billboard",
+    "gloss": ""
+   },
+   {
+    "tag": "fake mountains",
+    "gloss": ""
+   },
+   {
+    "tag": "feather crown",
+    "gloss": ""
+   },
+   {
+    "tag": "fins",
+    "gloss": ""
+   },
+   {
+    "tag": "fire escape",
+    "gloss": ""
+   },
+   {
+    "tag": "fire truck",
+    "gloss": ""
+   },
+   {
+    "tag": "flag",
+    "gloss": ""
+   },
+   {
+    "tag": "flame",
+    "gloss": ""
+   },
+   {
+    "tag": "flat cap",
+    "gloss": ""
+   },
+   {
+    "tag": "flat sky",
+    "gloss": ""
+   },
+   {
+    "tag": "flat tree",
+    "gloss": ""
+   },
+   {
+    "tag": "floating cube",
+    "gloss": ""
+   },
+   {
+    "tag": "floating island",
+    "gloss": ""
+   },
+   {
+    "tag": "flower basket",
+    "gloss": ""
+   },
+   {
+    "tag": "flying pod",
+    "gloss": ""
+   },
+   {
+    "tag": "folding chair",
+    "gloss": ""
+   },
+   {
+    "tag": "food cart",
+    "gloss": ""
+   },
+   {
+    "tag": "found graffiti",
+    "gloss": ""
+   },
+   {
+    "tag": "found mural",
+    "gloss": ""
+   },
+   {
+    "tag": "fragments",
+    "gloss": ""
+   },
+   {
+    "tag": "frill collar",
+    "gloss": ""
+   },
+   {
+    "tag": "furry feet",
+    "gloss": ""
+   },
+   {
+    "tag": "gate",
+    "gloss": ""
+   },
+   {
+    "tag": "gear disc",
+    "gloss": ""
+   },
+   {
+    "tag": "giant cloud",
+    "gloss": ""
+   },
+   {
+    "tag": "giant hand",
+    "gloss": ""
+   },
+   {
+    "tag": "girders",
+    "gloss": ""
+   },
+   {
+    "tag": "glass wall",
+    "gloss": ""
+   },
+   {
+    "tag": "globe",
+    "gloss": ""
+   },
+   {
+    "tag": "glow",
+    "gloss": ""
+   },
+   {
+    "tag": "glow halo",
+    "gloss": ""
+   },
+   {
+    "tag": "glyph",
+    "gloss": ""
+   },
+   {
+    "tag": "glyph border",
+    "gloss": ""
+   },
+   {
+    "tag": "gradient shading",
+    "gloss": ""
+   },
+   {
+    "tag": "gradient sky",
+    "gloss": ""
+   },
+   {
+    "tag": "grain terminal",
+    "gloss": ""
+   },
+   {
+    "tag": "grass tuft",
+    "gloss": ""
+   },
+   {
+    "tag": "grated mouth",
+    "gloss": ""
+   },
+   {
+    "tag": "gravel path",
+    "gloss": ""
+   },
+   {
+    "tag": "grid sphere",
+    "gloss": ""
+   },
+   {
+    "tag": "halftone",
+    "gloss": ""
+   },
+   {
+    "tag": "hand lettered title",
+    "gloss": ""
+   },
+   {
+    "tag": "handbags with eyes",
+    "gloss": ""
+   },
+   {
+    "tag": "handheld screen",
+    "gloss": ""
+   },
+   {
+    "tag": "hands",
+    "gloss": ""
+   },
+   {
+    "tag": "handstyle tag",
+    "gloss": ""
+   },
+   {
+    "tag": "hash marks",
+    "gloss": ""
+   },
+   {
+    "tag": "hat shape",
+    "gloss": ""
+   },
+   {
+    "tag": "hat table",
+    "gloss": ""
+   },
+   {
+    "tag": "hatched texture",
+    "gloss": ""
+   },
+   {
+    "tag": "hatching",
+    "gloss": ""
+   },
+   {
+    "tag": "headband",
+    "gloss": ""
+   },
+   {
+    "tag": "headdress band",
+    "gloss": ""
+   },
+   {
+    "tag": "headlights",
+    "gloss": ""
+   },
+   {
+    "tag": "headline type",
+    "gloss": ""
+   },
+   {
+    "tag": "horned bin",
+    "gloss": ""
+   },
+   {
+    "tag": "horns",
+    "gloss": ""
+   },
+   {
+    "tag": "hut",
+    "gloss": ""
+   },
+   {
+    "tag": "hydrant",
+    "gloss": ""
+   },
+   {
+    "tag": "ice cream truck",
+    "gloss": ""
+   },
+   {
+    "tag": "icicles",
+    "gloss": ""
+   },
+   {
+    "tag": "iridescent fill",
+    "gloss": ""
+   },
+   {
+    "tag": "island",
+    "gloss": ""
+   },
+   {
+    "tag": "jagged mountains",
+    "gloss": ""
+   },
+   {
+    "tag": "jagged ridge",
+    "gloss": ""
+   },
+   {
+    "tag": "kerb",
+    "gloss": ""
+   },
+   {
+    "tag": "kiosk",
+    "gloss": ""
+   },
+   {
+    "tag": "knobs",
+    "gloss": ""
+   },
+   {
+    "tag": "ladder bar",
+    "gloss": ""
+   },
+   {
+    "tag": "lamp post",
+    "gloss": ""
+   },
+   {
+    "tag": "lamp post face",
+    "gloss": ""
+   },
+   {
+    "tag": "ledge",
+    "gloss": ""
+   },
+   {
+    "tag": "legs",
+    "gloss": ""
+   },
+   {
+    "tag": "lens",
+    "gloss": ""
+   },
+   {
+    "tag": "lit windows",
+    "gloss": ""
+   },
+   {
+    "tag": "lobe",
+    "gloss": ""
+   },
+   {
+    "tag": "lobed leaves",
+    "gloss": ""
+   },
+   {
+    "tag": "lobed shape",
+    "gloss": ""
+   },
+   {
+    "tag": "lobed tree",
+    "gloss": ""
+   },
+   {
+    "tag": "lollipop tree",
+    "gloss": ""
+   },
+   {
+    "tag": "longboard",
+    "gloss": ""
+   },
+   {
+    "tag": "map tiles",
+    "gloss": ""
+   },
+   {
+    "tag": "maple leaves",
+    "gloss": ""
+   },
+   {
+    "tag": "market tent",
+    "gloss": ""
+   },
+   {
+    "tag": "marquee",
+    "gloss": ""
+   },
+   {
+    "tag": "mirror ceiling",
+    "gloss": ""
+   },
+   {
+    "tag": "mirror floor",
+    "gloss": ""
+   },
+   {
+    "tag": "mirror symmetry",
+    "gloss": ""
+   },
+   {
+    "tag": "mitten arms",
+    "gloss": ""
+   },
+   {
+    "tag": "mountain cap",
+    "gloss": ""
+   },
+   {
+    "tag": "neon glow",
+    "gloss": ""
+   },
+   {
+    "tag": "neon splash",
+    "gloss": ""
+   },
+   {
+    "tag": "numbers",
+    "gloss": ""
+   },
+   {
+    "tag": "open mouth",
+    "gloss": ""
+   },
+   {
+    "tag": "outlined boat",
+    "gloss": ""
+   },
+   {
+    "tag": "outlined car",
+    "gloss": ""
+   },
+   {
+    "tag": "outlined cloud",
+    "gloss": ""
+   },
+   {
+    "tag": "outlined taxi",
+    "gloss": ""
+   },
+   {
+    "tag": "oval patch",
+    "gloss": ""
+   },
+   {
+    "tag": "pad",
+    "gloss": ""
+   },
+   {
+    "tag": "panel seams",
+    "gloss": ""
+   },
+   {
+    "tag": "paper plane",
+    "gloss": ""
+   },
+   {
+    "tag": "patch cables",
+    "gloss": ""
+   },
+   {
+    "tag": "path",
+    "gloss": ""
+   },
+   {
+    "tag": "paw",
+    "gloss": ""
+   },
+   {
+    "tag": "pebble beach",
+    "gloss": ""
+   },
+   {
+    "tag": "pedicab",
+    "gloss": ""
+   },
+   {
+    "tag": "pegs",
+    "gloss": ""
+   },
+   {
+    "tag": "pencil scribble",
+    "gloss": ""
+   },
+   {
+    "tag": "phone",
+    "gloss": ""
+   },
+   {
+    "tag": "photo filled cloud",
+    "gloss": ""
+   },
+   {
+    "tag": "piano keys",
+    "gloss": ""
+   },
+   {
+    "tag": "picture within picture",
+    "gloss": ""
+   },
+   {
+    "tag": "pier",
+    "gloss": ""
+   },
+   {
+    "tag": "pine spikes",
+    "gloss": ""
+   },
+   {
+    "tag": "pine tree",
+    "gloss": ""
+   },
+   {
+    "tag": "pink mountains",
+    "gloss": ""
+   },
+   {
+    "tag": "pipe",
+    "gloss": ""
+   },
+   {
+    "tag": "plaid overlay",
+    "gloss": ""
+   },
+   {
+    "tag": "planet",
+    "gloss": ""
+   },
+   {
+    "tag": "planter",
+    "gloss": ""
+   },
+   {
+    "tag": "platform",
+    "gloss": ""
+   },
+   {
+    "tag": "plaza",
+    "gloss": ""
+   },
+   {
+    "tag": "pod",
+    "gloss": ""
+   },
+   {
+    "tag": "pointed limbs",
+    "gloss": ""
+   },
+   {
+    "tag": "porthole",
+    "gloss": ""
+   },
+   {
+    "tag": "portrait stand",
+    "gloss": ""
+   },
+   {
+    "tag": "pose variations",
+    "gloss": ""
+   },
+   {
+    "tag": "pot",
+    "gloss": ""
+   },
+   {
+    "tag": "propeller",
+    "gloss": ""
+   },
+   {
+    "tag": "puddle",
+    "gloss": ""
+   },
+   {
+    "tag": "queue",
+    "gloss": ""
+   },
+   {
+    "tag": "rabbit ears",
+    "gloss": ""
+   },
+   {
+    "tag": "radial burst",
+    "gloss": ""
+   },
+   {
+    "tag": "radiating arms",
+    "gloss": ""
+   },
+   {
+    "tag": "radiating stripes",
+    "gloss": ""
+   },
+   {
+    "tag": "radiating wedges",
+    "gloss": ""
+   },
+   {
+    "tag": "ragged edge",
+    "gloss": ""
+   },
+   {
+    "tag": "rail",
+    "gloss": ""
+   },
+   {
+    "tag": "railing",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow fog",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow haze",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow scribble overlay",
+    "gloss": ""
+   },
+   {
+    "tag": "raised arms",
+    "gloss": ""
+   },
+   {
+    "tag": "raised tail",
+    "gloss": ""
+   },
+   {
+    "tag": "reflection",
+    "gloss": ""
+   },
+   {
+    "tag": "repeated title",
+    "gloss": ""
+   },
+   {
+    "tag": "ribbed sky",
+    "gloss": ""
+   },
+   {
+    "tag": "ribbon",
+    "gloss": ""
+   },
+   {
+    "tag": "ribbon road",
+    "gloss": ""
+   },
+   {
+    "tag": "ridge",
+    "gloss": ""
+   },
+   {
+    "tag": "ring",
+    "gloss": ""
+   },
+   {
+    "tag": "ring in sky",
+    "gloss": ""
+   },
+   {
+    "tag": "ringed helmet",
+    "gloss": ""
+   },
+   {
+    "tag": "ringed planet",
+    "gloss": ""
+   },
+   {
+    "tag": "ringed sphere",
+    "gloss": ""
+   },
+   {
+    "tag": "rising sun",
+    "gloss": ""
+   },
+   {
+    "tag": "river",
+    "gloss": ""
+   },
+   {
+    "tag": "road",
+    "gloss": ""
+   },
+   {
+    "tag": "rocket",
+    "gloss": ""
+   },
+   {
+    "tag": "rocks",
+    "gloss": ""
+   },
+   {
+    "tag": "rocky outcrop",
+    "gloss": ""
+   },
+   {
+    "tag": "rod",
+    "gloss": ""
+   },
+   {
+    "tag": "rooftop",
+    "gloss": ""
+   },
+   {
+    "tag": "rooftop creature",
+    "gloss": ""
+   },
+   {
+    "tag": "rows",
+    "gloss": ""
+   },
+   {
+    "tag": "rows of tiny figures",
+    "gloss": ""
+   },
+   {
+    "tag": "sail shape",
+    "gloss": ""
+   },
+   {
+    "tag": "sailboat",
+    "gloss": ""
+   },
+   {
+    "tag": "sandwich board",
+    "gloss": ""
+   },
+   {
+    "tag": "saucer shape",
+    "gloss": ""
+   },
+   {
+    "tag": "scaffolding",
+    "gloss": ""
+   },
+   {
+    "tag": "screen",
+    "gloss": ""
+   },
+   {
+    "tag": "scribble tag",
+    "gloss": ""
+   },
+   {
+    "tag": "seal",
+    "gloss": ""
+   },
+   {
+    "tag": "seawall",
+    "gloss": ""
+   },
+   {
+    "tag": "serrated grass",
+    "gloss": ""
+   },
+   {
+    "tag": "shadow pool",
+    "gloss": ""
+   },
+   {
+    "tag": "ship",
+    "gloss": ""
+   },
+   {
+    "tag": "shop sign",
+    "gloss": ""
+   },
+   {
+    "tag": "shopping cart",
+    "gloss": ""
+   },
+   {
+    "tag": "signature",
+    "gloss": ""
+   },
+   {
+    "tag": "sketchbook spiral",
+    "gloss": ""
+   },
+   {
+    "tag": "skybridge",
+    "gloss": ""
+   },
+   {
+    "tag": "skyline",
+    "gloss": ""
+   },
+   {
+    "tag": "smoke plume",
+    "gloss": ""
+   },
+   {
+    "tag": "snout",
+    "gloss": ""
+   },
+   {
+    "tag": "snow cap",
+    "gloss": ""
+   },
+   {
+    "tag": "spaceship",
+    "gloss": ""
+   },
+   {
+    "tag": "speaker cone",
+    "gloss": ""
+   },
+   {
+    "tag": "speech balloon",
+    "gloss": ""
+   },
+   {
+    "tag": "sphere on stalk",
+    "gloss": ""
+   },
+   {
+    "tag": "spiky tree",
+    "gloss": ""
+   },
+   {
+    "tag": "spiky wings",
+    "gloss": ""
+   },
+   {
+    "tag": "spines",
+    "gloss": ""
+   },
+   {
+    "tag": "spiral",
+    "gloss": ""
+   },
+   {
+    "tag": "spire",
+    "gloss": ""
+   },
+   {
+    "tag": "splash",
+    "gloss": ""
+   },
+   {
+    "tag": "spots",
+    "gloss": ""
+   },
+   {
+    "tag": "stadium",
+    "gloss": ""
+   },
+   {
+    "tag": "stairs",
+    "gloss": ""
+   },
+   {
+    "tag": "stalk",
+    "gloss": ""
+   },
+   {
+    "tag": "stalk trees",
+    "gloss": ""
+   },
+   {
+    "tag": "standing stone",
+    "gloss": ""
+   },
+   {
+    "tag": "star",
+    "gloss": ""
+   },
+   {
+    "tag": "star burst",
+    "gloss": ""
+   },
+   {
+    "tag": "star hub",
+    "gloss": ""
+   },
+   {
+    "tag": "statue",
+    "gloss": ""
+   },
+   {
+    "tag": "stencil face",
+    "gloss": ""
+   },
+   {
+    "tag": "stone arch",
+    "gloss": ""
+   },
+   {
+    "tag": "street corner",
+    "gloss": ""
+   },
+   {
+    "tag": "street sign",
+    "gloss": ""
+   },
+   {
+    "tag": "stripe fill",
+    "gloss": ""
+   },
+   {
+    "tag": "striped awning",
+    "gloss": ""
+   },
+   {
+    "tag": "striped ball",
+    "gloss": ""
+   },
+   {
+    "tag": "striped mound",
+    "gloss": ""
+   },
+   {
+    "tag": "striped planet",
+    "gloss": ""
+   },
+   {
+    "tag": "striped rim",
+    "gloss": ""
+   },
+   {
+    "tag": "striped ring",
+    "gloss": ""
+   },
+   {
+    "tag": "stripes",
+    "gloss": ""
+   },
+   {
+    "tag": "stubby legs",
+    "gloss": ""
+   },
+   {
+    "tag": "subway sign",
+    "gloss": ""
+   },
+   {
+    "tag": "suitcase",
+    "gloss": ""
+   },
+   {
+    "tag": "sun",
+    "gloss": ""
+   },
+   {
+    "tag": "sun burst",
+    "gloss": ""
+   },
+   {
+    "tag": "sunset",
+    "gloss": ""
+   },
+   {
+    "tag": "surf",
+    "gloss": ""
+   },
+   {
+    "tag": "tablet",
+    "gloss": ""
+   },
+   {
+    "tag": "tapering form",
+    "gloss": ""
+   },
+   {
+    "tag": "teardrop",
+    "gloss": ""
+   },
+   {
+    "tag": "teeth",
+    "gloss": ""
+   },
+   {
+    "tag": "terrace",
+    "gloss": ""
+   },
+   {
+    "tag": "thin black outline",
+    "gloss": ""
+   },
+   {
+    "tag": "thumbs up",
+    "gloss": ""
+   },
+   {
+    "tag": "tongue",
+    "gloss": ""
+   },
+   {
+    "tag": "toothed tail",
+    "gloss": ""
+   },
+   {
+    "tag": "torn patch",
+    "gloss": ""
+   },
+   {
+    "tag": "totem pole",
+    "gloss": ""
+   },
+   {
+    "tag": "tower",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic cone",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic light",
+    "gloss": ""
+   },
+   {
+    "tag": "train",
+    "gloss": ""
+   },
+   {
+    "tag": "translucent wash",
+    "gloss": ""
+   },
+   {
+    "tag": "tree roots",
+    "gloss": ""
+   },
+   {
+    "tag": "twisted arms",
+    "gloss": ""
+   },
+   {
+    "tag": "umbrella",
+    "gloss": ""
+   },
+   {
+    "tag": "van",
+    "gloss": ""
+   },
+   {
+    "tag": "visor",
+    "gloss": ""
+   },
+   {
+    "tag": "volcano",
+    "gloss": ""
+   },
+   {
+    "tag": "wall lamp",
+    "gloss": ""
+   },
+   {
+    "tag": "water tower",
+    "gloss": ""
+   },
+   {
+    "tag": "waterfall",
+    "gloss": ""
+   },
+   {
+    "tag": "wave",
+    "gloss": ""
+   },
+   {
+    "tag": "wave bands",
+    "gloss": ""
+   },
+   {
+    "tag": "wheel",
+    "gloss": ""
+   },
+   {
+    "tag": "white blob window",
+    "gloss": ""
+   },
+   {
+    "tag": "white border",
+    "gloss": ""
+   },
+   {
+    "tag": "white gap",
+    "gloss": ""
+   },
+   {
+    "tag": "white halo outline",
+    "gloss": ""
+   },
+   {
+    "tag": "white highlight line",
+    "gloss": ""
+   },
+   {
+    "tag": "white highlight patch",
+    "gloss": ""
+   },
+   {
+    "tag": "wildstyle letters",
+    "gloss": ""
+   },
+   {
+    "tag": "winding path",
+    "gloss": ""
+   },
+   {
+    "tag": "winding road",
+    "gloss": ""
+   },
+   {
+    "tag": "window creatures",
+    "gloss": ""
+   },
+   {
+    "tag": "window lintel",
+    "gloss": ""
+   },
+   {
+    "tag": "windows",
+    "gloss": ""
+   },
+   {
+    "tag": "wooden gate",
+    "gloss": ""
+   },
+   {
+    "tag": "wooden steps",
+    "gloss": ""
+   },
+   {
+    "tag": "zigzag band",
+    "gloss": ""
+   },
+   {
+    "tag": "zigzag mouth",
+    "gloss": ""
+   },
+   {
+    "tag": "zigzag parapet",
+    "gloss": ""
+   }
+  ],
+  "setting": [
+   {
+    "tag": "Atlantic Avenue",
+    "gloss": ""
+   },
+   {
+    "tag": "Barclays Center",
+    "gloss": ""
+   },
+   {
+    "tag": "Brooklyn",
+    "gloss": ""
+   },
+   {
+    "tag": "Brooklyn Bridge Park",
+    "gloss": ""
+   },
+   {
+    "tag": "Canal Street",
+    "gloss": ""
+   },
+   {
+    "tag": "Chelsea",
+    "gloss": ""
+   },
+   {
+    "tag": "Church Avenue",
+    "gloss": ""
+   },
+   {
+    "tag": "Columbia Street",
+    "gloss": ""
+   },
+   {
+    "tag": "Cortelyou Road",
+    "gloss": ""
+   },
+   {
+    "tag": "Crown Heights",
+    "gloss": ""
+   },
+   {
+    "tag": "DUMBO",
+    "gloss": ""
+   },
+   {
+    "tag": "Ditmas Avenue",
+    "gloss": ""
+   },
+   {
+    "tag": "Downtown Brooklyn",
+    "gloss": ""
+   },
+   {
+    "tag": "Eastern Parkway",
+    "gloss": ""
+   },
+   {
+    "tag": "Ebbets Field",
+    "gloss": ""
+   },
+   {
+    "tag": "Flatbush",
+    "gloss": ""
+   },
+   {
+    "tag": "Flatiron",
+    "gloss": ""
+   },
+   {
+    "tag": "Fulton Mall",
+    "gloss": ""
+   },
+   {
+    "tag": "Greenwich Village",
+    "gloss": ""
+   },
+   {
+    "tag": "High Line",
+    "gloss": ""
+   },
+   {
+    "tag": "Japanese garden",
+    "gloss": ""
+   },
+   {
+    "tag": "Lower East Side",
+    "gloss": ""
+   },
+   {
+    "tag": "Manhattan",
+    "gloss": ""
+   },
+   {
+    "tag": "Midtown",
+    "gloss": ""
+   },
+   {
+    "tag": "NYC street",
+    "gloss": ""
+   },
+   {
+    "tag": "Park Slope",
+    "gloss": ""
+   },
+   {
+    "tag": "SoHo",
+    "gloss": ""
+   },
+   {
+    "tag": "Times Square",
+    "gloss": ""
+   },
+   {
+    "tag": "Toronto",
+    "gloss": ""
+   },
+   {
+    "tag": "Vancouver",
+    "gloss": ""
+   },
+   {
+    "tag": "apartment block",
+    "gloss": ""
+   },
+   {
+    "tag": "city on horizon",
+    "gloss": ""
+   },
+   {
+    "tag": "classroom",
+    "gloss": ""
+   },
+   {
+    "tag": "coast",
+    "gloss": ""
+   },
+   {
+    "tag": "countryside",
+    "gloss": ""
+   },
+   {
+    "tag": "desert",
+    "gloss": ""
+   },
+   {
+    "tag": "farm",
+    "gloss": ""
+   },
+   {
+    "tag": "farmers market",
+    "gloss": ""
+   },
+   {
+    "tag": "flea market",
+    "gloss": ""
+   },
+   {
+    "tag": "floating island",
+    "gloss": ""
+   },
+   {
+    "tag": "forest",
+    "gloss": ""
+   },
+   {
+    "tag": "from the F train",
+    "gloss": ""
+   },
+   {
+    "tag": "garden",
+    "gloss": ""
+   },
+   {
+    "tag": "greenway",
+    "gloss": ""
+   },
+   {
+    "tag": "interior",
+    "gloss": ""
+   },
+   {
+    "tag": "invented city",
+    "gloss": ""
+   },
+   {
+    "tag": "invented landscape",
+    "gloss": ""
+   },
+   {
+    "tag": "laboratory",
+    "gloss": ""
+   },
+   {
+    "tag": "lakeside",
+    "gloss": ""
+   },
+   {
+    "tag": "launch site",
+    "gloss": ""
+   },
+   {
+    "tag": "mountain range",
+    "gloss": ""
+   },
+   {
+    "tag": "night",
+    "gloss": ""
+   },
+   {
+    "tag": "no place",
+    "gloss": ""
+   },
+   {
+    "tag": "observation deck",
+    "gloss": ""
+   },
+   {
+    "tag": "park",
+    "gloss": ""
+   },
+   {
+    "tag": "plaza",
+    "gloss": ""
+   },
+   {
+    "tag": "real city reimagined",
+    "gloss": ""
+   },
+   {
+    "tag": "river",
+    "gloss": ""
+   },
+   {
+    "tag": "space",
+    "gloss": ""
+   },
+   {
+    "tag": "subway",
+    "gloss": ""
+   },
+   {
+    "tag": "under the BQE",
+    "gloss": ""
+   },
+   {
+    "tag": "under the Brooklyn Bridge",
+    "gloss": ""
+   },
+   {
+    "tag": "under the F train",
+    "gloss": ""
+   },
+   {
+    "tag": "under the FDR",
+    "gloss": ""
+   },
+   {
+    "tag": "valley",
+    "gloss": ""
+   },
+   {
+    "tag": "village",
+    "gloss": ""
+   },
+   {
+    "tag": "waterfront",
+    "gloss": ""
+   }
+  ],
+  "composition": [
+   {
+    "tag": "aerial view",
+    "gloss": ""
+   },
+   {
+    "tag": "all over",
+    "gloss": ""
+   },
+   {
+    "tag": "angular perspective",
+    "gloss": ""
+   },
+   {
+    "tag": "bare ground",
+    "gloss": ""
+   },
+   {
+    "tag": "border framed",
+    "gloss": ""
+   },
+   {
+    "tag": "central cluster",
+    "gloss": ""
+   },
+   {
+    "tag": "central feature",
+    "gloss": ""
+   },
+   {
+    "tag": "central figure",
+    "gloss": ""
+   },
+   {
+    "tag": "centre glow",
+    "gloss": ""
+   },
+   {
+    "tag": "character sheet",
+    "gloss": ""
+   },
+   {
+    "tag": "crowd",
+    "gloss": ""
+   },
+   {
+    "tag": "dense",
+    "gloss": ""
+   },
+   {
+    "tag": "diagonal",
+    "gloss": ""
+   },
+   {
+    "tag": "figure from behind",
+    "gloss": ""
+   },
+   {
+    "tag": "figures in foreground",
+    "gloss": ""
+   },
+   {
+    "tag": "foreground objects",
+    "gloss": ""
+   },
+   {
+    "tag": "four panels",
+    "gloss": ""
+   },
+   {
+    "tag": "frontal",
+    "gloss": ""
+   },
+   {
+    "tag": "giant figures above",
+    "gloss": ""
+   },
+   {
+    "tag": "grid",
+    "gloss": ""
+   },
+   {
+    "tag": "grid like",
+    "gloss": ""
+   },
+   {
+    "tag": "group portrait",
+    "gloss": ""
+   },
+   {
+    "tag": "high horizon",
+    "gloss": ""
+   },
+   {
+    "tag": "isometric",
+    "gloss": ""
+   },
+   {
+    "tag": "layered depth",
+    "gloss": ""
+   },
+   {
+    "tag": "low angle",
+    "gloss": ""
+   },
+   {
+    "tag": "low horizon",
+    "gloss": ""
+   },
+   {
+    "tag": "mid horizon",
+    "gloss": ""
+   },
+   {
+    "tag": "mirrored",
+    "gloss": ""
+   },
+   {
+    "tag": "no background",
+    "gloss": ""
+   },
+   {
+    "tag": "no horizon",
+    "gloss": ""
+   },
+   {
+    "tag": "one point perspective",
+    "gloss": ""
+   },
+   {
+    "tag": "panoramic",
+    "gloss": ""
+   },
+   {
+    "tag": "photo base",
+    "gloss": ""
+   },
+   {
+    "tag": "pile",
+    "gloss": ""
+   },
+   {
+    "tag": "poster layout",
+    "gloss": ""
+   },
+   {
+    "tag": "radial",
+    "gloss": ""
+   },
+   {
+    "tag": "rising from bottom",
+    "gloss": ""
+   },
+   {
+    "tag": "scattered figures",
+    "gloss": ""
+   },
+   {
+    "tag": "sky dominant",
+    "gloss": ""
+   },
+   {
+    "tag": "soft ground",
+    "gloss": ""
+   },
+   {
+    "tag": "stacked",
+    "gloss": ""
+   },
+   {
+    "tag": "stencil cells",
+    "gloss": ""
+   },
+   {
+    "tag": "street corner",
+    "gloss": ""
+   },
+   {
+    "tag": "symmetrical",
+    "gloss": ""
+   },
+   {
+    "tag": "text and image",
+    "gloss": ""
+   },
+   {
+    "tag": "vertical",
+    "gloss": ""
+   },
+   {
+    "tag": "white ground",
+    "gloss": ""
+   },
+   {
+    "tag": "winding path",
+    "gloss": ""
+   },
+   {
+    "tag": "words as landscape",
+    "gloss": ""
+   }
+  ],
+  "line": [
+   {
+    "tag": "airbrush gradient",
+    "gloss": ""
+   },
+   {
+    "tag": "colour off register",
+    "gloss": ""
+   },
+   {
+    "tag": "crosshatch spray",
+    "gloss": ""
+   },
+   {
+    "tag": "flat fill",
+    "gloss": ""
+   },
+   {
+    "tag": "flat fill over photo",
+    "gloss": ""
+   },
+   {
+    "tag": "hard edge",
+    "gloss": ""
+   },
+   {
+    "tag": "ink and airbrush",
+    "gloss": ""
+   },
+   {
+    "tag": "marker",
+    "gloss": ""
+   },
+   {
+    "tag": "marker shading",
+    "gloss": ""
+   },
+   {
+    "tag": "no fill",
+    "gloss": ""
+   },
+   {
+    "tag": "no outline",
+    "gloss": ""
+   },
+   {
+    "tag": "painted",
+    "gloss": ""
+   },
+   {
+    "tag": "pen and ink",
+    "gloss": ""
+   },
+   {
+    "tag": "pencil scribble underlayer",
+    "gloss": ""
+   },
+   {
+    "tag": "printed",
+    "gloss": ""
+   },
+   {
+    "tag": "scribble marks",
+    "gloss": ""
+   },
+   {
+    "tag": "soft shading",
+    "gloss": ""
+   },
+   {
+    "tag": "stencil edge",
+    "gloss": ""
+   },
+   {
+    "tag": "thick black outline",
+    "gloss": ""
+   },
+   {
+    "tag": "thin black outline",
+    "gloss": ""
+   },
+   {
+    "tag": "thin dark outline",
+    "gloss": ""
+   },
+   {
+    "tag": "translucent fill",
+    "gloss": ""
+   },
+   {
+    "tag": "visible brushwork",
+    "gloss": ""
+   },
+   {
+    "tag": "white highlight line",
+    "gloss": ""
+   }
+  ],
+  "color_words": [
+   {
+    "tag": "airy",
+    "gloss": ""
+   },
+   {
+    "tag": "autumn",
+    "gloss": ""
+   },
+   {
+    "tag": "black and white",
+    "gloss": ""
+   },
+   {
+    "tag": "black grid",
+    "gloss": ""
+   },
+   {
+    "tag": "bleached",
+    "gloss": ""
+   },
+   {
+    "tag": "blue and brick",
+    "gloss": ""
+   },
+   {
+    "tag": "blue and grey",
+    "gloss": ""
+   },
+   {
+    "tag": "blue and orange",
+    "gloss": ""
+   },
+   {
+    "tag": "blue and tan",
+    "gloss": ""
+   },
+   {
+    "tag": "blue centre",
+    "gloss": ""
+   },
+   {
+    "tag": "blue monochrome",
+    "gloss": ""
+   },
+   {
+    "tag": "blue sky",
+    "gloss": ""
+   },
+   {
+    "tag": "bold",
+    "gloss": ""
+   },
+   {
+    "tag": "brick red",
+    "gloss": ""
+   },
+   {
+    "tag": "bright",
+    "gloss": ""
+   },
+   {
+    "tag": "brown and cream",
+    "gloss": ""
+   },
+   {
+    "tag": "brown and pink",
+    "gloss": ""
+   },
+   {
+    "tag": "candy",
+    "gloss": ""
+   },
+   {
+    "tag": "confetti",
+    "gloss": ""
+   },
+   {
+    "tag": "cool",
+    "gloss": ""
+   },
+   {
+    "tag": "cool centre",
+    "gloss": ""
+   },
+   {
+    "tag": "copper and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "cream and green",
+    "gloss": ""
+   },
+   {
+    "tag": "crisp",
+    "gloss": ""
+   },
+   {
+    "tag": "cyan sky",
+    "gloss": ""
+   },
+   {
+    "tag": "dark",
+    "gloss": ""
+   },
+   {
+    "tag": "dark background",
+    "gloss": ""
+   },
+   {
+    "tag": "dark on bright",
+    "gloss": ""
+   },
+   {
+    "tag": "dusk blue",
+    "gloss": ""
+   },
+   {
+    "tag": "earth tones",
+    "gloss": ""
+   },
+   {
+    "tag": "faint rainbow",
+    "gloss": ""
+   },
+   {
+    "tag": "flat",
+    "gloss": ""
+   },
+   {
+    "tag": "fluorescent",
+    "gloss": ""
+   },
+   {
+    "tag": "four colour",
+    "gloss": ""
+   },
+   {
+    "tag": "glittering",
+    "gloss": ""
+   },
+   {
+    "tag": "glowing",
+    "gloss": ""
+   },
+   {
+    "tag": "gold and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "gold and green",
+    "gloss": ""
+   },
+   {
+    "tag": "golden",
+    "gloss": ""
+   },
+   {
+    "tag": "grayscale",
+    "gloss": ""
+   },
+   {
+    "tag": "green and pink",
+    "gloss": ""
+   },
+   {
+    "tag": "green and rust",
+    "gloss": ""
+   },
+   {
+    "tag": "green core",
+    "gloss": ""
+   },
+   {
+    "tag": "green dominant",
+    "gloss": ""
+   },
+   {
+    "tag": "grey and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "grey and lilac",
+    "gloss": ""
+   },
+   {
+    "tag": "grey and pastel",
+    "gloss": ""
+   },
+   {
+    "tag": "grey and yellow",
+    "gloss": ""
+   },
+   {
+    "tag": "grey fence",
+    "gloss": ""
+   },
+   {
+    "tag": "grey figures",
+    "gloss": ""
+   },
+   {
+    "tag": "grey ground",
+    "gloss": ""
+   },
+   {
+    "tag": "grey marker",
+    "gloss": ""
+   },
+   {
+    "tag": "grey on white",
+    "gloss": ""
+   },
+   {
+    "tag": "grey with neon sky",
+    "gloss": ""
+   },
+   {
+    "tag": "grey with turquoise sky",
+    "gloss": ""
+   },
+   {
+    "tag": "haze",
+    "gloss": ""
+   },
+   {
+    "tag": "hazy",
+    "gloss": ""
+   },
+   {
+    "tag": "high contrast",
+    "gloss": ""
+   },
+   {
+    "tag": "iridescent pink",
+    "gloss": ""
+   },
+   {
+    "tag": "lime",
+    "gloss": ""
+   },
+   {
+    "tag": "lime and orange",
+    "gloss": ""
+   },
+   {
+    "tag": "lime and tan",
+    "gloss": ""
+   },
+   {
+    "tag": "lime green",
+    "gloss": ""
+   },
+   {
+    "tag": "line only",
+    "gloss": ""
+   },
+   {
+    "tag": "lit windows",
+    "gloss": ""
+   },
+   {
+    "tag": "low contrast",
+    "gloss": ""
+   },
+   {
+    "tag": "luminous",
+    "gloss": ""
+   },
+   {
+    "tag": "magenta and cream",
+    "gloss": ""
+   },
+   {
+    "tag": "matte",
+    "gloss": ""
+   },
+   {
+    "tag": "metallic gold",
+    "gloss": ""
+   },
+   {
+    "tag": "mint and lavender",
+    "gloss": ""
+   },
+   {
+    "tag": "mint and lilac",
+    "gloss": ""
+   },
+   {
+    "tag": "misty",
+    "gloss": ""
+   },
+   {
+    "tag": "monochrome",
+    "gloss": ""
+   },
+   {
+    "tag": "muted",
+    "gloss": ""
+   },
+   {
+    "tag": "naturalistic",
+    "gloss": ""
+   },
+   {
+    "tag": "near monochrome",
+    "gloss": ""
+   },
+   {
+    "tag": "near white",
+    "gloss": ""
+   },
+   {
+    "tag": "neon",
+    "gloss": ""
+   },
+   {
+    "tag": "neon on navy",
+    "gloss": ""
+   },
+   {
+    "tag": "night",
+    "gloss": ""
+   },
+   {
+    "tag": "no blue",
+    "gloss": ""
+   },
+   {
+    "tag": "ochre and pastel",
+    "gloss": ""
+   },
+   {
+    "tag": "olive and pink",
+    "gloss": ""
+   },
+   {
+    "tag": "orange and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "orange and lilac",
+    "gloss": ""
+   },
+   {
+    "tag": "orange and olive",
+    "gloss": ""
+   },
+   {
+    "tag": "orange and pink",
+    "gloss": ""
+   },
+   {
+    "tag": "orange and red",
+    "gloss": ""
+   },
+   {
+    "tag": "pale",
+    "gloss": ""
+   },
+   {
+    "tag": "pale blue",
+    "gloss": ""
+   },
+   {
+    "tag": "pale blue and tan",
+    "gloss": ""
+   },
+   {
+    "tag": "pale blue mountains",
+    "gloss": ""
+   },
+   {
+    "tag": "pale ground",
+    "gloss": ""
+   },
+   {
+    "tag": "pale sky",
+    "gloss": ""
+   },
+   {
+    "tag": "pastel",
+    "gloss": ""
+   },
+   {
+    "tag": "pastel panels",
+    "gloss": ""
+   },
+   {
+    "tag": "pastel rainbow",
+    "gloss": ""
+   },
+   {
+    "tag": "pastel sky",
+    "gloss": ""
+   },
+   {
+    "tag": "patchwork",
+    "gloss": ""
+   },
+   {
+    "tag": "peach and mint",
+    "gloss": ""
+   },
+   {
+    "tag": "peach and teal",
+    "gloss": ""
+   },
+   {
+    "tag": "pink accent",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and green",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and lime",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and mint",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and olive",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and orange",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and teal",
+    "gloss": ""
+   },
+   {
+    "tag": "pink and yellow",
+    "gloss": ""
+   },
+   {
+    "tag": "pink shadows",
+    "gloss": ""
+   },
+   {
+    "tag": "plum and olive",
+    "gloss": ""
+   },
+   {
+    "tag": "purple and olive",
+    "gloss": ""
+   },
+   {
+    "tag": "purple and orange",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow haze",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow lines",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow mural",
+    "gloss": ""
+   },
+   {
+    "tag": "rainbow pavement",
+    "gloss": ""
+   },
+   {
+    "tag": "red and grey",
+    "gloss": ""
+   },
+   {
+    "tag": "red brick and blue sky",
+    "gloss": ""
+   },
+   {
+    "tag": "rich",
+    "gloss": ""
+   },
+   {
+    "tag": "rust and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "sage and brick",
+    "gloss": ""
+   },
+   {
+    "tag": "saturated",
+    "gloss": ""
+   },
+   {
+    "tag": "smoky",
+    "gloss": ""
+   },
+   {
+    "tag": "soft",
+    "gloss": ""
+   },
+   {
+    "tag": "stained glass",
+    "gloss": ""
+   },
+   {
+    "tag": "stripes",
+    "gloss": ""
+   },
+   {
+    "tag": "sunny",
+    "gloss": ""
+   },
+   {
+    "tag": "sunset",
+    "gloss": ""
+   },
+   {
+    "tag": "tan and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "tan and brown",
+    "gloss": ""
+   },
+   {
+    "tag": "tan and salmon",
+    "gloss": ""
+   },
+   {
+    "tag": "tan and yellow",
+    "gloss": ""
+   },
+   {
+    "tag": "tan ground",
+    "gloss": ""
+   },
+   {
+    "tag": "teal",
+    "gloss": ""
+   },
+   {
+    "tag": "teal and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "teal and orange",
+    "gloss": ""
+   },
+   {
+    "tag": "teal and pink",
+    "gloss": ""
+   },
+   {
+    "tag": "teal and tan",
+    "gloss": ""
+   },
+   {
+    "tag": "teal sky",
+    "gloss": ""
+   },
+   {
+    "tag": "terracotta",
+    "gloss": ""
+   },
+   {
+    "tag": "three colour",
+    "gloss": ""
+   },
+   {
+    "tag": "turquoise",
+    "gloss": ""
+   },
+   {
+    "tag": "vintage",
+    "gloss": ""
+   },
+   {
+    "tag": "warm",
+    "gloss": ""
+   },
+   {
+    "tag": "warm brick",
+    "gloss": ""
+   },
+   {
+    "tag": "warm centre",
+    "gloss": ""
+   },
+   {
+    "tag": "warm on cool",
+    "gloss": ""
+   },
+   {
+    "tag": "warm stone",
+    "gloss": ""
+   },
+   {
+    "tag": "washed",
+    "gloss": ""
+   },
+   {
+    "tag": "watery",
+    "gloss": ""
+   },
+   {
+    "tag": "white clouds",
+    "gloss": ""
+   },
+   {
+    "tag": "wood grain",
+    "gloss": ""
+   },
+   {
+    "tag": "yellow and blue",
+    "gloss": ""
+   },
+   {
+    "tag": "yellow brick",
+    "gloss": ""
+   },
+   {
+    "tag": "yellow green",
+    "gloss": ""
+   }
+  ],
+  "style": [
+   {
+    "tag": "abstract",
+    "gloss": ""
+   },
+   {
+    "tag": "ai assisted",
+    "gloss": ""
+   },
+   {
+    "tag": "art deco",
+    "gloss": ""
+   },
+   {
+    "tag": "cartoon",
+    "gloss": ""
+   },
+   {
+    "tag": "cartoon over photo",
+    "gloss": "Flat outlined cartoon shapes drawn over a photograph."
+   },
+   {
+    "tag": "character design",
+    "gloss": ""
+   },
+   {
+    "tag": "creatures over photo",
+    "gloss": "Scribble pictures where invented creatures populate the photograph."
+   },
+   {
+    "tag": "cubist",
+    "gloss": ""
+   },
+   {
+    "tag": "desertland world",
+    "gloss": "The 2019 pastel oil paintings of desert pods and blobs."
+   },
+   {
+    "tag": "doodle",
+    "gloss": ""
+   },
+   {
+    "tag": "folk art",
+    "gloss": ""
+   },
+   {
+    "tag": "generative",
+    "gloss": ""
+   },
+   {
+    "tag": "graffiti",
+    "gloss": ""
+   },
+   {
+    "tag": "graffiti character",
+    "gloss": "Heavy outlined cartoon characters in the graffiti tradition."
+   },
+   {
+    "tag": "ink and airbrush",
+    "gloss": "Black ink line over or under sprayed colour."
+   },
+   {
+    "tag": "invented scenery",
+    "gloss": "Mountains, clouds or buildings added to a photograph that were not there."
+   },
+   {
+    "tag": "map like",
+    "gloss": ""
+   },
+   {
+    "tag": "mesoamerican reference",
+    "gloss": ""
+   },
+   {
+    "tag": "naive",
+    "gloss": ""
+   },
+   {
+    "tag": "painted on wood",
+    "gloss": ""
+   },
+   {
+    "tag": "parody",
+    "gloss": ""
+   },
+   {
+    "tag": "photo collage",
+    "gloss": ""
+   },
+   {
+    "tag": "photo derived",
+    "gloss": ""
+   },
+   {
+    "tag": "pop",
+    "gloss": ""
+   },
+   {
+    "tag": "print making",
+    "gloss": ""
+   },
+   {
+    "tag": "process art",
+    "gloss": ""
+   },
+   {
+    "tag": "psychedelic",
+    "gloss": ""
+   },
+   {
+    "tag": "scribble picture",
+    "gloss": "The 2023 to 2024 series: a photograph with cartoon drawing over it."
+   },
+   {
+    "tag": "seek and find density",
+    "gloss": "So many small things that looking becomes searching."
+   },
+   {
+    "tag": "stained glass",
+    "gloss": ""
+   },
+   {
+    "tag": "stencil airbrush",
+    "gloss": "Airbrush through cut stencils, leaving white gaps between cells."
+   },
+   {
+    "tag": "study",
+    "gloss": ""
+   },
+   {
+    "tag": "superland world",
+    "gloss": "The 2008 to 2009 oil paintings and their creature language."
+   },
+   {
+    "tag": "town world",
+    "gloss": "The 2011 oil on wood paintings of towns and their residents."
+   }
+  ],
+  "themes": [
+   {
+    "tag": "advertising",
+    "gloss": ""
+   },
+   {
+    "tag": "anonymity",
+    "gloss": ""
+   },
+   {
+    "tag": "architecture",
+    "gloss": ""
+   },
+   {
+    "tag": "character story",
+    "gloss": ""
+   },
+   {
+    "tag": "character study",
+    "gloss": ""
+   },
+   {
+    "tag": "city",
+    "gloss": ""
+   },
+   {
+    "tag": "city as toy",
+    "gloss": ""
+   },
+   {
+    "tag": "community",
+    "gloss": ""
+   },
+   {
+    "tag": "commuting",
+    "gloss": ""
+   },
+   {
+    "tag": "creatures among us",
+    "gloss": "Invented creatures living in real places as if they belonged."
+   },
+   {
+    "tag": "creatures as architecture",
+    "gloss": ""
+   },
+   {
+    "tag": "crowded life",
+    "gloss": "Pictures full of beings, with no empty space."
+   },
+   {
+    "tag": "cycling",
+    "gloss": ""
+   },
+   {
+    "tag": "daily life",
+    "gloss": ""
+   },
+   {
+    "tag": "erasure",
+    "gloss": "Signs, faces or brands blanked or scribbled out."
+   },
+   {
+    "tag": "faces in things",
+    "gloss": "Landscape, buildings or objects that turn out to have faces."
+   },
+   {
+    "tag": "fake nature",
+    "gloss": "Mountains, clouds or trees invented in a photograph."
+   },
+   {
+    "tag": "flight",
+    "gloss": ""
+   },
+   {
+    "tag": "gathering",
+    "gloss": ""
+   },
+   {
+    "tag": "growth",
+    "gloss": ""
+   },
+   {
+    "tag": "hidden creatures",
+    "gloss": ""
+   },
+   {
+    "tag": "home",
+    "gloss": ""
+   },
+   {
+    "tag": "idol",
+    "gloss": ""
+   },
+   {
+    "tag": "imaginary worlds",
+    "gloss": "Entirely invented landscapes and cities."
+   },
+   {
+    "tag": "journey",
+    "gloss": ""
+   },
+   {
+    "tag": "landmarks",
+    "gloss": ""
+   },
+   {
+    "tag": "layers",
+    "gloss": ""
+   },
+   {
+    "tag": "leisure",
+    "gloss": ""
+   },
+   {
+    "tag": "machines as places",
+    "gloss": ""
+   },
+   {
+    "tag": "machines in nature",
+    "gloss": ""
+   },
+   {
+    "tag": "market",
+    "gloss": ""
+   },
+   {
+    "tag": "monsters",
+    "gloss": ""
+   },
+   {
+    "tag": "nature",
+    "gloss": ""
+   },
+   {
+    "tag": "nature meets built",
+    "gloss": ""
+   },
+   {
+    "tag": "neighbourhood",
+    "gloss": ""
+   },
+   {
+    "tag": "night",
+    "gloss": ""
+   },
+   {
+    "tag": "noise",
+    "gloss": ""
+   },
+   {
+    "tag": "objects as creatures",
+    "gloss": ""
+   },
+   {
+    "tag": "pattern",
+    "gloss": ""
+   },
+   {
+    "tag": "personal story",
+    "gloss": ""
+   },
+   {
+    "tag": "pictures within pictures",
+    "gloss": ""
+   },
+   {
+    "tag": "place",
+    "gloss": ""
+   },
+   {
+    "tag": "plants as creatures",
+    "gloss": "Cactuses and trees that behave like beings."
+   },
+   {
+    "tag": "play",
+    "gloss": ""
+   },
+   {
+    "tag": "portrait",
+    "gloss": ""
+   },
+   {
+    "tag": "process",
+    "gloss": ""
+   },
+   {
+    "tag": "reassembly",
+    "gloss": ""
+   },
+   {
+    "tag": "repetition",
+    "gloss": ""
+   },
+   {
+    "tag": "same image many colourways",
+    "gloss": "One stencil or scene made in several palettes."
+   },
+   {
+    "tag": "scale",
+    "gloss": ""
+   },
+   {
+    "tag": "science history",
+    "gloss": ""
+   },
+   {
+    "tag": "self",
+    "gloss": ""
+   },
+   {
+    "tag": "settlement",
+    "gloss": ""
+   },
+   {
+    "tag": "stillness",
+    "gloss": ""
+   },
+   {
+    "tag": "symmetry",
+    "gloss": ""
+   },
+   {
+    "tag": "systems",
+    "gloss": ""
+   },
+   {
+    "tag": "texture",
+    "gloss": ""
+   },
+   {
+    "tag": "town life",
+    "gloss": ""
+   },
+   {
+    "tag": "traffic",
+    "gloss": ""
+   },
+   {
+    "tag": "transformation",
+    "gloss": ""
+   },
+   {
+    "tag": "travel",
+    "gloss": ""
+   },
+   {
+    "tag": "variation",
+    "gloss": ""
+   },
+   {
+    "tag": "vehicles as creatures",
+    "gloss": "Cars and buses drawn as soft animals."
+   },
+   {
+    "tag": "waiting",
+    "gloss": ""
+   },
+   {
+    "tag": "walking",
+    "gloss": ""
+   },
+   {
+    "tag": "watching",
+    "gloss": ""
+   },
+   {
+    "tag": "words as pictures",
+    "gloss": ""
+   },
+   {
+    "tag": "work",
+    "gloss": ""
+   }
+  ],
+  "mood": [
+   {
+    "tag": "anticipation",
+    "gloss": ""
+   },
+   {
+    "tag": "busy",
+    "gloss": ""
+   },
+   {
+    "tag": "calm",
+    "gloss": ""
+   },
+   {
+    "tag": "celebratory",
+    "gloss": ""
+   },
+   {
+    "tag": "chaotic",
+    "gloss": ""
+   },
+   {
+    "tag": "crisp",
+    "gloss": ""
+   },
+   {
+    "tag": "dreamy",
+    "gloss": ""
+   },
+   {
+    "tag": "energetic",
+    "gloss": ""
+   },
+   {
+    "tag": "joyful",
+    "gloss": ""
+   },
+   {
+    "tag": "loud",
+    "gloss": ""
+   },
+   {
+    "tag": "melancholy",
+    "gloss": ""
+   },
+   {
+    "tag": "moody",
+    "gloss": ""
+   },
+   {
+    "tag": "nostalgic",
+    "gloss": ""
+   },
+   {
+    "tag": "playful",
+    "gloss": ""
+   },
+   {
+    "tag": "quiet",
+    "gloss": ""
+   },
+   {
+    "tag": "solemn",
+    "gloss": ""
+   },
+   {
+    "tag": "strange",
+    "gloss": ""
+   },
+   {
+    "tag": "sunny",
+    "gloss": ""
+   },
+   {
+    "tag": "tender",
+    "gloss": ""
+   },
+   {
+    "tag": "uneasy",
+    "gloss": ""
+   },
+   {
+    "tag": "warm",
+    "gloss": ""
+   },
+   {
+    "tag": "whimsical",
+    "gloss": ""
+   },
+   {
+    "tag": "wistful",
+    "gloss": ""
+   },
+   {
+    "tag": "wondrous",
+    "gloss": ""
+   },
+   {
+    "tag": "wry",
+    "gloss": ""
+   }
+  ]
+ },
+ "about": "Controlled tags per facet, built from the first describing pass on 2026-10-04. Glosses are written for the recurring characters and the core style tags; others are self explanatory. Edit freely: scripts/validate.py reports any record tag that is not listed here."
+}
